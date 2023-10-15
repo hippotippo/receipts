@@ -1,5 +1,6 @@
 # Uber Tax Time Receipts
 https://hippotippo.com/free
+Learn more about [Hippo Tippo](https://hippotippo.com)
 Free form to collect Uber receipts.
 
 21 Types of Expenses
@@ -23,4 +24,4 @@ Use "Send to this Email too" to send a copy of the receipt to an email. This wou
 
 How to clone a form -- https://youtu.be/J1dW4qh17_E
 
-Form link - https://hippotippo.com/free
+Direct Jotform link required for cloning. Please find at the bottom of the form
