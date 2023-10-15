@@ -1,7 +1,9 @@
 # Uber Tax Time Receipts
 https://hippotippo.com/free
+
 Learn more about [Hippo Tippo](https://hippotippo.com)
-Free form to collect Uber receipts.
+
+\Free form to collect Uber tax receipts.
 
 21 Types of Expenses
 
