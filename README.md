@@ -12,11 +12,11 @@ Provide frequent (weekly) odometer checks
 
 Ability to download at tax time as spreadsheet. Can also use Jotfrom integrations to save in multiple formats
 
-Google Sheets*
-Monday.com*
-Airtable*
-Smartsheet*
-Zapier*
+* Google Sheets
+* Monday.com
+* Airtable
+* Smartsheet
+* Zapier
 
 Use "Send to this Email too" to send a copy of the receipt to an email. This would most likely be your own email.
 
