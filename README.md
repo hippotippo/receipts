@@ -12,6 +12,7 @@ Provide frequent (weekly) odometer checks
 
 Ability to download at tax time as spreadsheet. Can also use Jotfrom integrations to save in multiple formats
 
+* Excel (Default)
 * Google Sheets
 * Monday.com
 * Airtable
