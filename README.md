@@ -6,6 +6,8 @@ Free form to collect Uber tax receipts.
 
 21 Types of Expenses
 
+Find the form here -- https://hippotippo.com/free
+
 Add images of receipts or Invoices
 
 Always provide a description
@@ -27,4 +29,4 @@ How to clone a form -- https://youtu.be/J1dW4qh17_E
 
 Direct Jotform link required for cloning. Please find at the bottom of the form
 
-https://hippotippo.com/free
+Find the form here -- https://hippotippo.com/free
